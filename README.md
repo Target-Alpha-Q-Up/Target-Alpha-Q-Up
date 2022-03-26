@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Target-Alpha-Q-Up
+- 👀 I’m interested in bot development, object detection, web development
+- 🌱 I’m currently learning speech recognition and machine learning for language detection and processing
+- 💞️ I’m looking to collaborate on anything that sounds interesting, just contact me
+- 📫 How to reach me
+-  Email - targetalphagone@gmail.com - Write "GitHub Collaboration Request" in subject line for soonest responses
+-  Discord - AlphaQUp#2298
